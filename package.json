@@ -3,11 +3,11 @@
 	"version": "0.1.0",
 	"description": "",
 	"author": "lucas.varela",
-	"homepage": "https://github.com/lucasvarela/vcf-extension#readme",
+	"homepage": "https://github.com/lucashnvarela/vcf-extension#readme",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/lucasvarela/vcf-extension.git"
+		"url": "https://github.com/lucashnvarela/vcf-extension.git"
 	},
 	"keywords": [
 		"vinted",
